@@ -15,12 +15,12 @@
   The game is very simple is to catch the largest number of brains. The controls to control the player are the arrows on the keyboard.
 </p>
 
-<a href="https://github.com/diegomartinezalaminos/hungry_zombie/gif1.gif">
-    <img src="/gif1.gif" alt="img" width="300" height="300">
+<a href="https://github.com/diegomartinezalaminos/hungry_zombie/gif2.gif">
+    <img src="/gif1.gif" alt="img">
 </a>
 <br>
-<a href="https://github.com/diegomartinezalaminos/hungry_zombie/gif2.gif">
-    <img src="/gif2.gif" alt="img" width="300" height="300">
+<a href="https://github.com/diegomartinezalaminos/hungry_zombie/gif1.gif">
+    <img src="/gif2.gif" alt="img">
 </a>
 <br>
 [PUSH TO PLAY!](https://skull-gamehlc.herokuapp.com/)
