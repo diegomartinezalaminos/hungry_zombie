@@ -5,7 +5,7 @@
   The zombie who eats the most brains wins.
 </p>
 <p>
-  It is a simple game created to apply the Phaser, socket.io and heroku technologies that we have learned in the HLC subject (taught by Professor Juan) of the 2DAN degree
+  It is a simple game created to apply the Phaser, socket.io and heroku technologies that we have learned in the HLC subject (taught by Professor https://github.com/sergiflags) of the 2DAN degree
 </p>
 
 <!-- HOW TO PLAY -->
