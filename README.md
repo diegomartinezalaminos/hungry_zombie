@@ -15,11 +15,11 @@
   The game is very simple is to catch the largest number of brains. The controls to control the player are the arrows on the keyboard.
 </p>
 
-<a href="https://github.com/diegomartinezalaminos/hungry_zombie/gif2.gif">
+<a href="https://github.com/diegomartinezalaminos/hungry_zombie/blob/main/gif1.gif">
     <img src="/gif1.gif" alt="img">
 </a>
 <br>
-<a href="https://github.com/diegomartinezalaminos/hungry_zombie/gif1.gif">
+<a href="https://github.com/diegomartinezalaminos/hungry_zombie/blob/main/gif1.gif">
     <img src="/gif2.gif" alt="img">
 </a>
 <br>
