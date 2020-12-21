@@ -23,4 +23,4 @@
     <img src="/gif2.gif" alt="img">
 </a>
 <br>
-[PUSH TO PLAY!](https://skull-gamehlc.herokuapp.com/)
+[PUSH TO PLAY!](https://hungryzombie.herokuapp.com/)
